@@ -24,3 +24,8 @@ cd file-analysis-tool
 ```bash
 pip install -r requirements.txt
 ```
+
+# Usage
+```bash
+python3 file_analysis_tool.py -f {FILE} -k {YOUR_VIRUSTOTAL_API_KEY} --tools {virustotal, malwarebazaar}
+```
