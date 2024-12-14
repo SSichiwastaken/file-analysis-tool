@@ -10,7 +10,17 @@ A Python-based CLI tool for file and hash analysis with VirusTotal and MalwareBa
 
 
 # Installation
+- Clone Repository
 ```bash
-- git clone https://github.com/<your-username>/file-analysis-tool.git
-- cd file-analysis-tool
-- pip install -r requirements.txt
+git clone https://github.com/<your-username>/file-analysis-tool.git
+```
+
+- Navigate to Installed Folder
+```bash
+cd file-analysis-tool
+```
+
+- Install Dependencies
+```bash
+pip install -r requirements.txt
+```
