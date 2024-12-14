@@ -26,6 +26,7 @@ pip install -r requirements.txt
 ```
 
 # Usage
+- Python Version 3.6 or Later is Required
 ```bash
 python3 file_analysis_tool.py -f {FILE} -k {YOUR_VIRUSTOTAL_API_KEY} --tools {virustotal malwarebazaar}
 ```
