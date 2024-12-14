@@ -27,5 +27,9 @@ pip install -r requirements.txt
 
 # Usage
 ```bash
-python3 file_analysis_tool.py -f {FILE} -k {YOUR_VIRUSTOTAL_API_KEY} --tools {virustotal, malwarebazaar}
+python3 file_analysis_tool.py -f {FILE} -k {YOUR_VIRUSTOTAL_API_KEY} --tools {virustotal malwarebazaar}
 ```
+
+
+# Example
+![2024-12-14 21_17_08-Settings](https://github.com/user-attachments/assets/f5dc53bc-d003-4c6e-b2a3-64f924125dfc)
